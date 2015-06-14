@@ -11,10 +11,10 @@ namespace ConsoleApplication20
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter a value for z:");
-            float z = float.Parse(Console.ReadLine());
+            int z = int.Parse(Console.ReadLine());
             Console.WriteLine("Please enter a value for x:");
-            float x = float.Parse(Console.ReadLine());
-            float result = (z / x);
+            int x = int.Parse(Console.ReadLine());
+            int result = (z % x);
             Console.WriteLine(result);
 
         }

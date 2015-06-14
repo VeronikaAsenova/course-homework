@@ -1,1 +1,6 @@
 C:\Users\VeronicaAS\Desktop\course-homework\Homework3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\VeronicaAS\Desktop\course-homework\Homework3\Homework3\bin\Debug\Homework3.exe
+C:\Users\VeronicaAS\Desktop\course-homework\Homework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\VeronicaAS\Desktop\course-homework\Homework3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\VeronicaAS\Desktop\course-homework\Homework3\Homework3\obj\Debug\Homework3.exe
+C:\Users\VeronicaAS\Desktop\course-homework\Homework3\Homework3\obj\Debug\Homework3.pdb

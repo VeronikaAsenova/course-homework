@@ -1,1 +1,5 @@
 C:\Users\VeronicaAS\Desktop\course-homework\Homework4\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\VeronicaAS\Desktop\course-homework\Homework4\Homework4\bin\Debug\Homework4.exe
+C:\Users\VeronicaAS\Desktop\course-homework\Homework4\Homework4\bin\Debug\Homework4.pdb
+C:\Users\VeronicaAS\Desktop\course-homework\Homework4\Homework4\obj\Debug\Homework4.exe
+C:\Users\VeronicaAS\Desktop\course-homework\Homework4\Homework4\obj\Debug\Homework4.pdb
