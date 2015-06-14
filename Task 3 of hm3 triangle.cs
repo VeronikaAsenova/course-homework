@@ -10,17 +10,11 @@ namespace ConsoleApplication16
     {
         static void Main(string[] args)
         {
-            int a =
-                Console.WriteLine();
-                Console.ReadLine();
-
-            int ha = 
-                Console.ReadLine();
+            int a = 15;
+            int ha = 5;
+            int result = (a * ha) / 2;
+                Console.WriteLine(result);
                 
-
-
-             int result = (a * ha) / 2;
-            Console.WriteLine(result);
 
         }
     }
