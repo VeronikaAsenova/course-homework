@@ -1,0 +1,5 @@
+C:\Users\VeronicaAS\Desktop\course-homework\Homework5\Homework5\bin\Debug\Homework5.exe.config
+C:\Users\VeronicaAS\Desktop\course-homework\Homework5\Homework5\bin\Debug\Homework5.exe
+C:\Users\VeronicaAS\Desktop\course-homework\Homework5\Homework5\bin\Debug\Homework5.pdb
+C:\Users\VeronicaAS\Desktop\course-homework\Homework5\Homework5\obj\Debug\Homework5.exe
+C:\Users\VeronicaAS\Desktop\course-homework\Homework5\Homework5\obj\Debug\Homework5.pdb

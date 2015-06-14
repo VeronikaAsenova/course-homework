@@ -1,0 +1,7 @@
+c:\users\veronicaas\documents\visual studio 2013\Projects\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\VeronicaAS\Desktop\course-homework\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\VeronicaAS\Desktop\course-homework\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\Users\VeronicaAS\Desktop\course-homework\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\VeronicaAS\Desktop\course-homework\Homework1\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+C:\Users\VeronicaAS\Desktop\course-homework\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\VeronicaAS\Desktop\course-homework\Homework1\Homework1\obj\Debug\Homework1.pdb
