@@ -1,0 +1,2 @@
+C:\Users\VeronicaAS\Desktop\course-homework\homework4\Task1 of homework4\bin\Debug\Task1 of homework4.exe.config
+C:\Users\VeronicaAS\Desktop\course-homework\homework4\Task1 of homework4\obj\Debug\Task1 of homework4.csprojResolveAssemblyReference.cache

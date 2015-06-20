@@ -1,0 +1,6 @@
+C:\Users\VeronicaAS\Desktop\course-homework\homework4\task3 of hm4\bin\Debug\task3 of hm4.exe.config
+C:\Users\VeronicaAS\Desktop\course-homework\homework4\task3 of hm4\bin\Debug\task3 of hm4.exe
+C:\Users\VeronicaAS\Desktop\course-homework\homework4\task3 of hm4\bin\Debug\task3 of hm4.pdb
+C:\Users\VeronicaAS\Desktop\course-homework\homework4\task3 of hm4\obj\Debug\task3 of hm4.csprojResolveAssemblyReference.cache
+C:\Users\VeronicaAS\Desktop\course-homework\homework4\task3 of hm4\obj\Debug\task3 of hm4.exe
+C:\Users\VeronicaAS\Desktop\course-homework\homework4\task3 of hm4\obj\Debug\task3 of hm4.pdb
