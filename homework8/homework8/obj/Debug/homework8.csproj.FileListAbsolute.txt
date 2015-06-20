@@ -1,5 +1,0 @@
-C:\Users\VeronicaAS\Desktop\course-homework\homework8\homework8\bin\Debug\homework8.exe.config
-C:\Users\VeronicaAS\Desktop\course-homework\homework8\homework8\bin\Debug\homework8.exe
-C:\Users\VeronicaAS\Desktop\course-homework\homework8\homework8\bin\Debug\homework8.pdb
-C:\Users\VeronicaAS\Desktop\course-homework\homework8\homework8\obj\Debug\homework8.exe
-C:\Users\VeronicaAS\Desktop\course-homework\homework8\homework8\obj\Debug\homework8.pdb
